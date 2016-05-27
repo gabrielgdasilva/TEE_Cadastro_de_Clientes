@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TEE_Cadastro_de_Clientes.Service1" CodeBehind="TEE_Cadastro_de_Clientes_Service.svc.cs" %>
